@@ -1,3 +1,13 @@
+# Typescript sample project for learning purposes
+
+- Install and config Typescript compiler
+- Run/Debug TypeScript in browser with Webpack
+- webpack sample configuration with TypeScript
+  - Webpack setup with ts-loader
+  - Webpack-dev-server
+  - production and development builds
+  - build cleanup with clean-webpack-plugin
+
 ## install typescript
 
 ```bash
