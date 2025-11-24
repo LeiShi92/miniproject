@@ -59,7 +59,10 @@ https://webpack.js.org/guides/typescript/#source-maps
 
 ```bash
 tsc -w  //watch for file changes, compile automaticaly
---npm start -- run lit-server
+npm start -- run lit-server
+```
+
+```bash
 npm run serve -- dev
 npm run build -- prod build
 ```
